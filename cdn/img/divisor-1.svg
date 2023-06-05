@@ -1,0 +1,9 @@
+<svg width="123" height="30" viewBox="0 0 123 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="divisor">
+<path id="shape" d="M60 29.6052C33.5 29.6052 33.5 0 0 0H122.5C88.5 0 83 29.6052 60 29.6052Z" fill="#020411"/>
+<g id="seta">
+<path d="M55 8.0285L61 14.0499L67 8.0285" fill="#020411"/>
+<path d="M55 8.0285L61 14.0499L67 8.0285" stroke="#BAF354" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,550 @@
+@font-face {
+  font-family: 'pedrosobral';
+  src:  url('../fonts/pedrosobral.eot?inrd2h');
+  src:  url('../fonts/pedrosobral.eot?inrd2h#iefix') format('embedded-opentype'),
+    url('../fonts/pedrosobral.woff2?inrd2h') format('woff2'),
+    url('../fonts/pedrosobral.ttf?inrd2h') format('truetype'),
+    url('../fonts/pedrosobral.woff?inrd2h') format('woff'),
+    url('../fonts/pedrosobral.svg?inrd2h#pedrosobral') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'pedrosobral' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-linhaPagamento:before {
+  content: "\e9aa";
+}
+.icon-boleto:before {
+  content: "\e99e";
+}
+.icon-hotmart:before {
+  content: "\e9a2";
+}
+.icon-paypal:before {
+  content: "\e9a7";
+}
+.icon-master:before {
+  content: "\e9a6";
+}
+.icon-visa:before {
+  content: "\e9ac";
+}
+.icon-whatsapp1:before {
+  content: "\e9ad";
+}
+.icon-chat:before {
+  content: "\e99f";
+}
+.icon-email1:before {
+  content: "\e9a1";
+}
+.icon-iconeCursos:before {
+  content: "\e9a3";
+}
+.icon-iconeGestores:before {
+  content: "\e9a4";
+}
+.icon-iconeHashtag1:before {
+  content: "\e9a5";
+}
+.icon-setaDireita1:before {
+  content: "\e9a8";
+}
+.icon-setaDireita2:before {
+  content: "\e9a9";
+}
+.icon-check1:before {
+  content: "\e9a0";
+}
+.icon-quiz:before {
+  content: "\e9ae";
+}
+.icon-menuMobile:before {
+  content: "\e99d";
+}
+.icon-savetheDate:before {
+  content: "\e99a";
+}
+.icon-temporada:before {
+  content: "\e999";
+}
+.icon-nextSubidoflix:before {
+  content: "\e99b";
+}
+.icon-materiais:before {
+  content: "\e99c";
+}
+.icon-doc:before {
+  content: "\e994";
+}
+.icon-imagem:before {
+  content: "\e995";
+}
+.icon-pdf:before {
+  content: "\e996";
+}
+.icon-xls:before {
+  content: "\e997";
+}
+.icon-youtube:before {
+  content: "\e998";
+}
+.icon-like:before {
+  content: "\e993";
+}
+.icon-info:before {
+  content: "\e992";
+}
+.icon-play:before {
+  content: "\e991";
+}
+.icon-comSom:before {
+  content: "\e990";
+}
+.icon-semSom:before {
+  content: "\e98f";
+}
+.icon-bell:before {
+  content: "\e98e";
+}
+.icon-iconeOk:before {
+  content: "\e989";
+}
+.icon-iconeNo:before {
+  content: "\e98a";
+}
+.icon-gmail:before {
+  content: "\e98b";
+}
+.icon-yahoo:before {
+  content: "\e98c";
+}
+.icon-outlook:before {
+  content: "\e98d";
+}
+.icon-recargaCredito1:before {
+  content: "\e987";
+}
+.icon-recargaCredito2:before {
+  content: "\e988";
+}
+.icon-phone:before {
+  content: "\e985";
+}
+.icon-pastinhaContato:before {
+  content: "\e984";
+}
+.icon-iconeAplicacaoVaga:before {
+  content: "\e983";
+}
+.icon-visualizado:before {
+  content: "\e982";
+}
+.icon-iconeAjuda:before {
+  content: "\e981";
+}
+.icon-email:before {
+  content: "\e980";
+}
+.icon-acessoEmpresaSeta:before {
+  content: "\e97f";
+}
+.icon-copiar:before {
+  content: "\e973";
+}
+.icon-editarPerfil:before {
+  content: "\e974";
+}
+.icon-formaDeContratacao:before {
+  content: "\e975";
+}
+.icon-link:before {
+  content: "\e976";
+}
+.icon-local:before {
+  content: "\e977";
+}
+.icon-logoFacebook:before {
+  content: "\e978";
+}
+.icon-logoInstagram:before {
+  content: "\e979";
+}
+.icon-logoLinkedin:before {
+  content: "\e97a";
+}
+.icon-logoTiktok:before {
+  content: "\e97b";
+}
+.icon-logoTwitter:before {
+  content: "\e97c";
+}
+.icon-logoYoutube:before {
+  content: "\e97d";
+}
+.icon-remuneracao:before {
+  content: "\e97e";
+}
+.icon-simboloEmail:before {
+  content: "\e972";
+}
+.icon-aspas:before {
+  content: "\e971";
+}
+.icon-sair:before {
+  content: "\e970";
+}
+.icon-adicionarVaga:before {
+  content: "\e96f";
+}
+.icon-blocosHexagono:before {
+  content: "\e956";
+}
+.icon-calendario:before {
+  content: "\e957";
+}
+.icon-calendarioExpirar:before {
+  content: "\e958";
+}
+.icon-estrelaSolida:before {
+  content: "\e959";
+}
+.icon-hexagono:before {
+  content: "\e95a";
+}
+.icon-mala:before {
+  content: "\e95b";
+}
+.icon-medalha:before {
+  content: "\e95c";
+}
+.icon-menu:before {
+  content: "\e95d";
+}
+.icon-setaLado:before {
+  content: "\e95e";
+}
+.icon-simboloSubido1:before {
+  content: "\e95f";
+}
+.icon-ajuda:before {
+  content: "\e960";
+}
+.icon-ambienteSeguro:before {
+  content: "\e961";
+}
+.icon-aplicacoes:before {
+  content: "\e962";
+}
+.icon-check:before {
+  content: "\e963";
+}
+.icon-estrela:before {
+  content: "\e964";
+}
+.icon-inicio:before {
+  content: "\e965";
+}
+.icon-malaComLupa:before {
+  content: "\e966";
+}
+.icon-minhasVagas:before {
+  content: "\e967";
+}
+.icon-setaDupla:before {
+  content: "\e968";
+}
+.icon-subidochat:before {
+  content: "\e969";
+}
+.icon-sino:before {
+  content: "\e96a";
+}
+.icon-lupa:before {
+  content: "\e96b";
+}
+.icon-setaDireita:before {
+  content: "\e96c";
+}
+.icon-setaPraBaixo:before {
+  content: "\e96d";
+}
+.icon-simboloSubido:before {
+  content: "\e96e";
+}
+.icon-clubs2:before {
+  content: "\e946";
+}
+.icon-diamonds:before {
+  content: "\e947";
+}
+.icon-heart2:before {
+  content: "\e948";
+}
+.icon-spades2:before {
+  content: "\e949";
+}
+.icon-diamonds2:before {
+  content: "\e94a";
+}
+.icon-clubs:before {
+  content: "\e94b";
+}
+.icon-heart:before {
+  content: "\e94c";
+}
+.icon-spades:before {
+  content: "\e94d";
+}
+.icon-queen2:before {
+  content: "\e94e";
+}
+.icon-queen:before {
+  content: "\e94f";
+}
+.icon-king2:before {
+  content: "\e950";
+}
+.icon-king:before {
+  content: "\e951";
+}
+.icon-florDeLlis:before {
+  content: "\e952";
+}
+.icon-notebookAviso:before {
+  content: "\e986";
+}
+.icon-menuLoja:before {
+  content: "\e955";
+}
+.icon-pinFixado:before {
+  content: "\e954";
+}
+.icon-likeSubido:before {
+  content: "\e953";
+}
+.icon-iconeErrado:before {
+  content: "\e945";
+}
+.icon-menuCertificacao:before {
+  content: "\e941";
+}
+.icon-provaDificuldade:before {
+  content: "\e942";
+}
+.icon-provaQuestoes:before {
+  content: "\e943";
+}
+.icon-provaTempo:before {
+  content: "\e944";
+}
+.icon-telegram:before {
+  content: "\e940";
+}
+.icon-iconeLogoLinhasGrossas:before {
+  content: "\e93f";
+}
+.icon-iconeCamera:before {
+  content: "\e93d";
+}
+.icon-iconeCamera1:before {
+  content: "\e93e";
+}
+.icon-iconeEnviado:before {
+  content: "\e93c";
+}
+.icon-iconeGestorTelefone:before {
+  content: "\e93a";
+}
+.icon-iconeGestorNome:before {
+  content: "\e93b";
+}
+.icon-iconeGestorQuote:before {
+  content: "\e939";
+}
+.icon-iconeGestorHomemCortado:before {
+  content: "\e938";
+}
+.icon-iconeFechar:before {
+  content: "\e937";
+}
+.icon-aulaAtualizada:before {
+  content: "\e936";
+}
+.icon-iconeHashtag:before {
+  content: "\e934";
+}
+.icon-iconeAlterar:before {
+  content: "\e935";
+}
+.icon-iconeSemAulas:before {
+  content: "\e933";
+}
+.icon-iconeCadeado:before {
+  content: "\e932";
+}
+.icon-iconeWhatsapp:before {
+  content: "\e931";
+}
+.icon-iconeSuportePagina:before {
+  content: "\e930";
+}
+.icon-iconeTelegram1:before {
+  content: "\e92f";
+}
+.icon-iconeSuporteVideo:before {
+  content: "\e92d";
+}
+.icon-iconeSuportePDF:before {
+  content: "\e92e";
+}
+.icon-iconeEmail:before {
+  content: "\e929";
+}
+.icon-iconeEmail1:before {
+  content: "\e92a";
+}
+.icon-iconeTelegram:before {
+  content: "\e92b";
+}
+.icon-whatsapp:before {
+  content: "\e92c";
+}
+.icon-iconeBreve:before {
+  content: "\e928";
+}
+.icon-iconeSetaDupla:before {
+  content: "\e927";
+}
+.icon-iconeSeta:before {
+  content: "\e926";
+}
+.icon-iconeReload:before {
+  content: "\e925";
+}
+.icon-iconeAnotacao:before {
+  content: "\e923";
+}
+.icon-iconeMaterial:before {
+  content: "\e924";
+}
+.icon-iconePerfilMenu:before {
+  content: "\e921";
+}
+.icon-iconeBuscaMenu:before {
+  content: "\e922";
+}
+.icon-iconeFBLetra:before {
+  content: "\e900";
+}
+.icon-iconeFBredondo:before {
+  content: "\e901";
+}
+.icon-iconeFiltrosMobile:before {
+  content: "\e902";
+}
+.icon-iconeHash300:before {
+  content: "\e903";
+}
+.icon-iconeHash600:before {
+  content: "\e904";
+}
+.icon-iconeImprimir:before {
+  content: "\e905";
+}
+.icon-iconeInstaLinha:before {
+  content: "\e906";
+}
+.icon-iconeInstaSolido:before {
+  content: "\e907";
+}
+.icon-iconeLampadaDark:before {
+  content: "\e908";
+}
+.icon-iconeLampadaLight:before {
+  content: "\e909";
+}
+.icon-iconeLink:before {
+  content: "\e90a";
+}
+.icon-iconeLista:before {
+  content: "\e90b";
+}
+.icon-iconeLogoLinhas:before {
+  content: "\e90c";
+}
+.icon-iconeMaisVideos:before {
+  content: "\e90d";
+}
+.icon-iconeMateriais:before {
+  content: "\e90e";
+}
+.icon-iconePlayContinue:before {
+  content: "\e91e";
+}
+.icon-iconePlaylist:before {
+  content: "\e91f";
+}
+.icon-iconePlaylistAdicionar:before {
+  content: "\e920";
+}
+.icon-iconePlaylistEditar:before {
+  content: "\e90f";
+}
+.icon-iconePlaylistNova:before {
+  content: "\e910";
+}
+.icon-iconeSuporte:before {
+  content: "\e911";
+}
+.icon-iconeTag:before {
+  content: "\e912";
+}
+.icon-iconeThumb:before {
+  content: "\e913";
+}
+.icon-iconeVagas:before {
+  content: "\e914";
+}
+.icon-iconeVoltar:before {
+  content: "\e915";
+}
+.icon-iconeYoutube:before {
+  content: "\e916";
+}
+.icon-iconeBusca:before {
+  content: "\e917";
+}
+.icon-iconeBuscaConteudo:before {
+  content: "\e918";
+}
+.icon-iconeCafe:before {
+  content: "\e919";
+}
+.icon-iconeConcluido:before {
+  content: "\e91a";
+}
+.icon-iconeConteudo:before {
+  content: "\e91b";
+}
+.icon-iconeConteudo1:before {
+  content: "\e91c";
+}
+.icon-iconeDownload:before {
+  content: "\e91d";
+}
